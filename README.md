@@ -1,1 +1,1 @@
-Okul Not Otomasyon Projesi
+#Okul Not Otomasyon Projesi

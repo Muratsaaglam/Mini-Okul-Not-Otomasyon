@@ -31,3 +31,8 @@ Açıklama :
 :high_brightness: Öğretmen Giriş Ekranı - Öğretmen öğrencilerle ilgili aşağıdaki işlemleri yapabilecek.
 
 ![image](https://user-images.githubusercontent.com/98838876/172555301-fe79d615-44ac-4d07-8a1c-abd686b0a9ea.png)
+
+:high_brightness: Kulüpler Listesini Güncelleme Kod Bölümü
+
+![image](https://user-images.githubusercontent.com/98838876/172607893-53734d00-9c87-4664-bb27-805c5f021921.png)
+

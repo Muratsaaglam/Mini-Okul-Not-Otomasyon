@@ -49,6 +49,9 @@ Açıklama : DataSet Crud İşlemleri
 
 :arrow_right: Dersler Ekranı DataSet ile Kodlandı. 
 
+![image](https://user-images.githubusercontent.com/98838876/172630945-ac79a96c-4bd3-49a8-8097-994e433149bf.png)
+
+
 ![image](https://user-images.githubusercontent.com/98838876/172630601-b5a4dac2-1fa1-4ac3-a903-e5db1465a544.png)
  
  ![image](https://user-images.githubusercontent.com/98838876/172630654-0118ebc9-c6c0-46b5-9765-f08921afc2a4.png)

@@ -16,6 +16,18 @@ Açıklama :
 
 ![image](https://user-images.githubusercontent.com/98838876/172172353-07d7da24-e51b-4596-b380-5d1b798d89ff.png)
 
+
+:high_brightness: Öğrenci Giriş Yaptığındaki Öğrenci ID'sine Ait Notlar Görüntülenebiliyor.
+
+![image](https://user-images.githubusercontent.com/98838876/172560284-249f27d0-7075-4cee-a507-e79b477baa52.png)
+
+
+
+:high_brightness: Öğrenci Giriş Yaptığında Verilerin Gelmesini Sağlayan Kod Bölümü 
+
+![image](https://user-images.githubusercontent.com/98838876/172559887-18dc7ca2-6042-4b2c-b597-df237e5bfa48.png)
+
+
 :high_brightness: Öğretmen Giriş Ekranı - Öğretmen öğrencilerle ilgili aşağıdaki işlemleri yapabilecek.
 
 ![image](https://user-images.githubusercontent.com/98838876/172555301-fe79d615-44ac-4d07-8a1c-abd686b0a9ea.png)

@@ -15,3 +15,7 @@ Açıklama :
 :high_brightness: Giriş Ekranı Tasarımı. 2 Picture Box - 3 Label - 1 Text Box ile Tasarlandı. Kullanıcı Öğretmen Yada Öğrenci Numarasını Girecek. Ardından İlgili Simgeye Tıklayarak İlgili Ekranlara Geçiş Yapabilecek
 
 ![image](https://user-images.githubusercontent.com/98838876/172172353-07d7da24-e51b-4596-b380-5d1b798d89ff.png)
+
+:high_brightness: Öğretmen Giriş Ekranı - Öğretmen öğrencilerle ilgili aşağıdaki işlemleri yapabilecek.
+
+![image](https://user-images.githubusercontent.com/98838876/172555301-fe79d615-44ac-4d07-8a1c-abd686b0a9ea.png)

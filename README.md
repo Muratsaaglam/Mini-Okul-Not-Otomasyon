@@ -36,3 +36,12 @@ Açıklama : DataSet Crud İşlemleri
 
 ![image](https://user-images.githubusercontent.com/98838876/172607893-53734d00-9c87-4664-bb27-805c5f021921.png)
 
+:high_brightness: Diğer Veri İşlemleri DataSet Kullanılarak Yapıldı :high_brightness:
+
+
+
+:arrow_right: DataSet Bir Sorgu Oluşturuldu. Derslerin Listelenmesini Sağlayan Table Adapter Sorgusu
+
+![image](https://user-images.githubusercontent.com/98838876/172621026-17b7e01a-cb1e-4ce8-b036-b6333c5f91ac.png)
+
+

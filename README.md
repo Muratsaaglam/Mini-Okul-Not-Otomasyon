@@ -1,6 +1,6 @@
 #Okul Not Otomasyon Projesi
 
-Açıklama : 
+Açıklama : DataSet Crud İşlemleri
 
 :arrow_right:  Sql DataBase Tablo Örnekleri - DataBase Yedeği Github Ana Dizinde Yer Almaktadır. Databasi indirerek Tablolar Hakkında Detaylı Bilgiye Ulaşabilirsiniz.
 

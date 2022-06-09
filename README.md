@@ -56,4 +56,14 @@ Açıklama : DataSet Crud İşlemleri
  
  ![image](https://user-images.githubusercontent.com/98838876/172630654-0118ebc9-c6c0-46b5-9765-f08921afc2a4.png)
 
+:arrow_right: Öğrenci Ekranı 
 
+![image](https://user-images.githubusercontent.com/98838876/172858526-5f6cafa1-4334-4ca8-95b3-9159be53fc6a.png)
+
+:high_brightness: Kod Bölümü
+
+![image](https://user-images.githubusercontent.com/98838876/172858638-ac2b77d0-09a1-4eae-953f-e28c7ec88874.png)
+
+![image](https://user-images.githubusercontent.com/98838876/172858698-455d9c53-c6dc-4e0b-bc94-b001ee442b39.png)
+
+![image](https://user-images.githubusercontent.com/98838876/172858755-2dacb98e-b569-4146-aba4-6b78be2c1a60.png)

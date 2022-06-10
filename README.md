@@ -73,3 +73,19 @@ Açıklama : DataSet Crud İşlemleri
 
 ![image](https://user-images.githubusercontent.com/98838876/173019581-5d665d5a-c502-43b6-aed0-877e3a41c85d.png)
 
+:arrow_right: Sınav Notlarının Girildiği Ekran Tasarımı
+
+![image](https://user-images.githubusercontent.com/98838876/173053647-9fc4f3c3-61ee-43f7-8890-e08fd8de49b8.png)
+
+:arrow_right: Kod Bölümü
+
+![image](https://user-images.githubusercontent.com/98838876/173053703-055a5771-25ad-4b47-9014-5ce1b9e22546.png)
+
+![image](https://user-images.githubusercontent.com/98838876/173053734-77333789-971d-4404-b5a1-ddeb758258c9.png)
+
+![image](https://user-images.githubusercontent.com/98838876/173053803-be1ca4ee-2e0a-4625-bc2a-1fc56ecb10e4.png)
+
+![image](https://user-images.githubusercontent.com/98838876/173053843-7381f685-9358-4734-a05a-81b2f45d7308.png)
+
+
+

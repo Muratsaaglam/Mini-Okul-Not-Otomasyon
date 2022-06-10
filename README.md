@@ -62,6 +62,9 @@ Açıklama : DataSet Crud İşlemleri
 
 :high_brightness: Kod Bölümü
 
+![image](https://user-images.githubusercontent.com/98838876/173018825-dc16069d-ebd4-4443-b57a-b1441ca5a68a.png)
+
+
 ![image](https://user-images.githubusercontent.com/98838876/172858638-ac2b77d0-09a1-4eae-953f-e28c7ec88874.png)
 
 ![image](https://user-images.githubusercontent.com/98838876/172858698-455d9c53-c6dc-4e0b-bc94-b001ee442b39.png)

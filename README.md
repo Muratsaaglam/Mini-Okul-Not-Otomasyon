@@ -1,6 +1,6 @@
 #Okul Not Otomasyon Projesi
 
-Açıklama : DataSet Crud İşlemleri
+C# - SQL kodlama ile birlikte DataSet Crud kullnılarak Öğretmen ve Öğrenci Otomasyon Sistemi Hazırlandı. Projenin kodları ve Projenin görselleri aşağıda belirtildi. 
 
 :arrow_right:  Sql DataBase Tablo Örnekleri - DataBase Yedeği Github Ana Dizinde Yer Almaktadır. Databasi indirerek Tablolar Hakkında Detaylı Bilgiye Ulaşabilirsiniz.
 

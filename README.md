@@ -70,3 +70,6 @@ Açıklama : DataSet Crud İşlemleri
 ![image](https://user-images.githubusercontent.com/98838876/172858698-455d9c53-c6dc-4e0b-bc94-b001ee442b39.png)
 
 ![image](https://user-images.githubusercontent.com/98838876/172858755-2dacb98e-b569-4146-aba4-6b78be2c1a60.png)
+
+![image](https://user-images.githubusercontent.com/98838876/173019581-5d665d5a-c502-43b6-aed0-877e3a41c85d.png)
+

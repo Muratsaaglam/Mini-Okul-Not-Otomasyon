@@ -16,7 +16,7 @@ namespace Okul_Not_Otomasyon_Projesi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmSınavNotlar());
         }
     }
 }
